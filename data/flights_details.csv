@@ -1,0 +1,13 @@
+,depart_code,departure,dest_code,destination,flight_number,price,time
+0,KOL,Kolkata,BEN,Bengaluru,F1425,7600,23rd Nov 12:00
+1,DEL,Delhi,KOL,Kolkata,F1231,14000,24th Nov 03:00
+2,BEN,Bengaluru,MUM,Mumbai,F1901,20000,29th Nov 10:20
+3,MUM,Mumbai,BEN,Bengaluru,F2901,24000,01th Dec 09:00
+4,BEN,Bengaluru,DEL,Delhi,F7111,13000,04th Dec 12:10
+5,KOL,Kolkata,MUM,Mumbai,F9012,34000,09th Dec 14:55
+6,DEL,Delhi,BEN,Bengaluru,F7822,2400,10th Dec 19:45
+7,BEN,Bengaluru,KOL,Kolkata,F1999,24000,12th Dec 16:40
+8,MUM,Mumbai,KOL,Kolkata,F0092,12000,14th Dec 13:30
+9,KOL,Kolkata,DEL,Delhi,F6723,23000,14th Dec 15:00
+10,DEL,Delhi,MUM,Mumbai,F8211,1400,15th Dec 05:30
+11,MUM,Mumbai,DEL,Delhi,F1021,15000,16th Dec 12:00
